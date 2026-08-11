@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background: #f4f1ed;
+  color: #2b2723;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.hero-section {
+  background: #2b2723;
+  color: white;
+}
+
+.card {
+  border: 0;
+}
+
+.form-control:focus,
+.form-select:focus {
+  border-color: #6c5b4c;
+  box-shadow: 0 0 0 0.2rem rgba(108, 91, 76, 0.15);
+}
